@@ -1,6 +1,6 @@
-package com.example.demo.model.response.user
+package com.example.demo.app.model.response.user
 
-import com.example.demo.model.user.UserModel
+import com.example.demo.app.model.user.UserModel
 
 /**
  * Created by toyotakeisuke on 2017/05/29.

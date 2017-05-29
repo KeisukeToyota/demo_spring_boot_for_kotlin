@@ -1,8 +1,8 @@
-package com.example.demo.controller.user
+package com.example.demo.app.controller.user
 
-import com.example.demo.model.user.UserModel
-import com.example.demo.model.response.user.UserResponse
-import com.example.demo.model.response.user.UsersResponse
+import com.example.demo.app.model.user.UserModel
+import com.example.demo.app.model.response.user.UserResponse
+import com.example.demo.app.model.response.user.UsersResponse
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RestController
